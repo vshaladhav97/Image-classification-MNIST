@@ -58,15 +58,11 @@ This project successfully classified MNIST digits and demonstrated the superiori
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone <repository-link>
+   git clone git@github.com:vshaladhav97/Image-classification-MNIST.git
    ```  
-2. Install required libraries:  
+2. Run the training script:  
    ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the training script:  
-   ```bash
-   python train.py
+   python project2.py
    ```  
 
 ## Dependencies  
